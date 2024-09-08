@@ -15,7 +15,7 @@ from src.prompt import *
 # OpenAI authentication
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-xEgAPsza"
 
 
 
